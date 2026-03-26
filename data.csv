@@ -1,0 +1,9 @@
+Name,Age,Email,Salary,Department
+Michael Johnson,29,michael.johnson@email.com,55000,IT
+Emily Rodriguez,,emily.rodriguez@email.com,62000,HR
+Christopher Davis,35,chris.davis@email.com,NaN,Finance
+Michael Johnson,29,michael.johnson@email.com,55000,IT
+Ashley Martinez,28,ashley.martinez@email.com,58000,Marketing
+Daniel Hernandez, ,daniel.hernandez@email.com,61000,IT
+Jessica Thompson,31,,59000,HR
+Matthew Anderson,40,matthew.anderson@email.com,72000,Finance
